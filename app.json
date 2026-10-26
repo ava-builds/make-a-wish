@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Make a Wish",
+    "slug": "make-a-wish",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#070B18",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "Make a Wish",
+      "themeColor": "#8E85C4"
+    },
+    "backgroundColor": "#070B18",
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Make a Wish listens to the wish you speak so it can become a star."
+        }
+      ],
+      [
+        "expo-sensors",
+        {
+          "motionPermission": "The night sky moves gently as you tilt your phone."
+        }
+      ],
+      "expo-font"
+    ]
+  }
+}
