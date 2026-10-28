@@ -36,8 +36,8 @@ Turn the music on or off from the person icon in My Universe.
 6. **Confirmation** — *It's in the universe.*
 7. **My Universe** — each recording is a star; filter by type; home · new wish · your space (music on/off).
 8. **Play** — the star in its ring pulses with your own voice as it plays.
+<img width="2000" height="600" alt="make a wish" src="https://github.com/user-attachments/assets/0d69d046-dcab-4e15-9692-bf4eba7c82b8" />
 
-Recordings are saved on the phone.
 
 ## Run it
 
