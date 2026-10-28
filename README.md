@@ -6,7 +6,12 @@ Speak a wish. Watch it become a star. A calm, voice-first ritual app built with 
 
 <!-- Drag your demo video (.mp4 or .mov) here while editing this file on GitHub -->
 
-_Demo video coming soon._
+_Demo video_ 
+
+
+https://github.com/user-attachments/assets/3bbb918e-e235-424a-bd76-fc000d3f0420
+
+
 
 ## What makes it feel alive
 
